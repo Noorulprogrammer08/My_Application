@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hiring App</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="tv_don_t_have_an_account">Dont have an account</string>
+    <string name="sign_up">Signup</string>
+</resources>
