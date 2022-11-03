@@ -3,6 +3,21 @@
     <string name="email">Email</string>
     <string name="password">password</string>
     <string name="login">login</string>
-    <string name="tv_don_t_have_an_account">Dont have an account</string>
+    <string name="tv_don_t_have_an_account">Dont have an account ?</string>
     <string name="sign_up">Signup</string>
+    <string name="signup">Signup</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="logout">Logout</string>
+    <string name="user_name">User Name</string>
+    <string name="password_empty">Enter a password</string>
+    <string name="password_condition_failed">\"Enter a Strong Password \"</string>
+    <string name="password_length">Must contain 6 characters</string>
+    <string name="password_digit">Must contain a digit</string>
+    <string name="password_uppercase">Must contain a Uppercase Letter</string>
+    <string name="password_special_character">Must contain a Special Character</string>
+    <string name="email_empty">Enter a mail Id</string>
+    <string name="email_format_error">Enter a valid Email Id</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="job_name">Job Name</string>
 </resources>
